@@ -66,14 +66,8 @@ Me chamo Ana Paula Vieira da Silva, tenho 30 anos. Atualmente moro em Barretos S
   />
 
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Paula-7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-</p>
+
 
 
 <img 
